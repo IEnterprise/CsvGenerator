@@ -47,5 +47,5 @@ File.WriteAllText(Directory.GetCurrentDirectory() + @"/" + "Test.csv", csv);
 ### When using Reference types
 - Properties will be used as Headers
 
-### When using a built in .Net type
+### When using a built in .Net types
 - Header will be set to "Values" by default
