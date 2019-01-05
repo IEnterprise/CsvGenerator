@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ReleaseVersion>1.0</ReleaseVersion>
+    <PackageId>IEnterprise.CSVGenerator</PackageId>
+    <PackageVersion>1.0</PackageVersion>
+    <Authors>IEnterprise: Nikolay Hristov</Authors>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Owners>IEnterprise</Owners>
+    <Copyright>Copyright 2018 (c) IEnterprise Ltd. All rights reserved.</Copyright>
+    <PackageProjectUrl>https://github.com/IEnterprise/CsvGenerator</PackageProjectUrl>
+    <PackageReleaseNotes>Version 1.0</PackageReleaseNotes>
+    <Summary>Make CSVs easier for any object (reference types) or any built in .Net type(strings, ints, booleans, etc), using any enumerable(custom Enumerables, any Collection, any Set, etc).</Summary>
+    <PackageTags>csv generator creator create generate easy ienterprise</PackageTags>
+    <Title>CSV Generator</Title>
+    <Description>Make CSVs easier for any object (reference types) or any built in .Net type(strings, ints, booleans, etc), using any enumerable(custom Enumerables, any Collection, any Set, etc).</Description>
+    <ReleaseVersion>1.0</ReleaseVersion>
+    <PackageLicenseUrl>https://github.com/IEnterprise/CsvGenerator/blob/master/LICENSE</PackageLicenseUrl>
+    <DevelopmentDependency>true</DevelopmentDependency>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+</Project>

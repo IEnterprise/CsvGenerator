@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IEnterprise.CSVGenerator</id>
+    <version>1.0.0</version>
+    <title>CSV Generator</title>
+    <authors>IEnterprise: Nikolay Hristov</authors>
+    <owners>IEnterprise</owners>
+    <licenseUrl>https://github.com/IEnterprise/CsvGenerator/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/IEnterprise/CsvGenerator</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Make CSVs easier for any object (reference types) or any built in .Net type(strings, ints, booleans, etc), using any enumerable(custom Enumerables, any Collection, any Set, etc).</description>
+    <releaseNotes>Version 1.0</releaseNotes>
+    <copyright>Copyright 2018 (c) IEnterprise Ltd. All rights reserved.</copyright>
+    <tags>csv commaseperated generator creator create generate easy ienterprise</tags>
+        <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin/Release/netcoreapp2.1/CsvGenerator.dll " target="lib/netcoreapp2.1/CsvGenerator.dll" />
+  </files>
+</package>
